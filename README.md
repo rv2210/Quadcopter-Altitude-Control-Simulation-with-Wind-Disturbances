@@ -10,7 +10,7 @@
 # Dependencies
 * [Simspcace Multibody](https://www.mathworks.com/products/simscape-multibody.html)   
 * [Aerospace Toolbox](https://www.mathworks.com/products/aerospace-toolbox.html)
-* [Peter Corke Robotics ToolBox](https://www.mathworks.com/products/aerospace-toolbox.html)
+* [Peter Corke Robotics ToolBox]( https://github.com/petercorke/robotics-toolbox-matlab )
 
 # Description
 This is NYU Tandon ME-GY 6923 Simulation Tools for Mechatronics and Robotics Fall 2021 semester group final project.  
